@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoZT", "AutoZT\AutoZT.csproj", "{D4FAE932-15FC-4DDF-87AF-61F9EB90B709}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoZenoTrac", "AutoZenoTrac\AutoZenoTrac.vdproj", "{833AC2D0-5DC7-4177-B1B8-1CCE55CDD572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FAE932-15FC-4DDF-87AF-61F9EB90B709}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FAE932-15FC-4DDF-87AF-61F9EB90B709}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D4FAE932-15FC-4DDF-87AF-61F9EB90B709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FAE932-15FC-4DDF-87AF-61F9EB90B709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833AC2D0-5DC7-4177-B1B8-1CCE55CDD572}.Debug|Any CPU.ActiveCfg = Release
+		{833AC2D0-5DC7-4177-B1B8-1CCE55CDD572}.Debug|Any CPU.Build.0 = Release
+		{833AC2D0-5DC7-4177-B1B8-1CCE55CDD572}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

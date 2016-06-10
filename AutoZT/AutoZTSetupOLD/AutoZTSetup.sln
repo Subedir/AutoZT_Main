@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoZenoTrac", "AutoZTSetup.vdproj", "{4700B32D-4928-47E6-9B39-74603D309318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4700B32D-4928-47E6-9B39-74603D309318}.Debug|Default.ActiveCfg = Debug
+		{4700B32D-4928-47E6-9B39-74603D309318}.Debug|Default.Build.0 = Debug
+		{4700B32D-4928-47E6-9B39-74603D309318}.Release|Default.ActiveCfg = Release
+		{4700B32D-4928-47E6-9B39-74603D309318}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

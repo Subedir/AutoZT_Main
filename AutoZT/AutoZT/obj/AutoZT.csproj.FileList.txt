@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Office.dll
+obj\Debug\Interop.VBIDE.dll
+obj\Debug\AutoZT.csproj.ResolveComReference.cache
+obj\Debug\AutoZT.Form1.resources
+obj\Debug\AutoZT.Properties.Resources.resources
+obj\Debug\AutoZT.csproj.GenerateResource.Cache
+bin\Debug\AutoZT.exe
+bin\Debug\AutoZT.pdb
+bin\Debug\Interop.Office.dll
+bin\Debug\Interop.VBIDE.dll
+obj\Debug\AutoZT.exe
+obj\Debug\AutoZT.pdb
+obj\Debug\AutoZT.AboutBox.resources
